@@ -1,5 +1,7 @@
 # **GnoLand** node and test
+**Requirements | Требования:** 
 
+1CPU/2Gb RAM (на утюге заведется)
 ## Подготовка и установка
  **Update all | Апдейтим все**
 
